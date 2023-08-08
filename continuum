@@ -1,0 +1,2183 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  class="touch-styles">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- This is Squarespace. --><!-- myview-websitetest -->
+<base href="">
+<meta charset="utf-8" />
+<title>Continuum &mdash; Robert Carpentry </title>
+<meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1490846763237-ZOY0VV6OWEA2GHKMBBPB/favicon.ico?format=100w"/>
+<link rel="canonical" href="https://www.robertcarpentry.com/continuum"/>
+<meta property="og:site_name" content="Robert Carpentry "/>
+<meta property="og:title" content="Continuum &mdash; Robert Carpentry "/>
+<meta property="og:url" content="https://www.robertcarpentry.com/continuum"/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="http://static1.squarespace.com/static/58b484fe725e251157557d72/t/58dc83de6a4963e5f5c2fd34/1490846687639/RobertCarpentry_Share.jpg?format=1500w"/>
+<meta property="og:image:width" content="1490"/>
+<meta property="og:image:height" content="913"/>
+<meta itemprop="name" content="Continuum — Robert Carpentry "/>
+<meta itemprop="url" content="https://www.robertcarpentry.com/continuum"/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/58b484fe725e251157557d72/t/58dc83de6a4963e5f5c2fd34/1490846687639/RobertCarpentry_Share.jpg?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/58b484fe725e251157557d72/t/58dc83de6a4963e5f5c2fd34/1490846687639/RobertCarpentry_Share.jpg?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/58b484fe725e251157557d72/t/58dc83de6a4963e5f5c2fd34/1490846687639/RobertCarpentry_Share.jpg?format=1500w"/>
+<meta name="twitter:title" content="Continuum — Robert Carpentry "/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/58b484fe725e251157557d72/t/58dc83de6a4963e5f5c2fd34/1490846687639/RobertCarpentry_Share.jpg?format=1500w"/>
+<meta name="twitter:url" content="https://www.robertcarpentry.com/continuum"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,400;1,700&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,500;1,700">
+<script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-3accfac79da642b3fbb56-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-3accfac79da642b3fbb56-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-47d1221231df25bde9715-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-47d1221231df25bde9715-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-988cea152e72258d821b3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-988cea152e72258d821b3-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-7c444ba7313710b69b9b5-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-7c444ba7313710b69b9b5-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-ba15e3222f1efd202c27b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-ba15e3222f1efd202c27b-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-2f36e12b59eccc0293084-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-2f36e12b59eccc0293084-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-6d336f7e26f3d0c7cf52b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-1c0efc7d81f20b32e6967-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-7999ce511ae435e0cf621-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-23ebf8bfe7584527290b5-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-50bb8714aa3f07e12617b-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-181fa3980190b0e3a74e4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-981d02a7b8c6a316af63c-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-2ed72b54de1694d2c7605-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-d14c21994605a2b0e9e68-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-ae0844b94d444ba9a2c5c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-8b3c05eab2524d8eda07d-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-58d9fe47c7f2802b7b142-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-de1c9493a2e9c408cad0a-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-d301e6d2fad1111fd372c-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-776b68d0222c8b5c915d7-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-444f5cddd6d25897ae431-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b514837cf962648fb3130-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-93e227839c67e57c5d80c-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-a550cfd7a3810840c28f0-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-2bc939cae53222bbd3536-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-3280732f7382ceb8c820f-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-6f0fe31c72d8ea933dbcb-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-ef44c0f6bccc94f0890da-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-38a5b26b81d774219ca83-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-892a9e5031ade4cf7b070-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-6269d6a7934bf637644ca-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-7a9d4873bc84cd20a30de-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-3f811651c22105de19032-min.en-US.js"}},"pageType":1,"website":{"id":"58b484fe725e251157557d72","identifier":"myview-websitetest","websiteType":1,"contentModifiedOn":1529513098598,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/New_York","machineTimeZoneOffset":-14400000,"timeZoneOffset":-14400000,"timeZoneAbbr":"EDT","siteTitle":"Robert Carpentry ","fullSiteTitle":"Continuum \u2014 Robert Carpentry ","siteTagLine":"","siteDescription":"","logoImageId":"58b71535bf629ac4f1b69a1e","socialLogoImageId":"58dc83de6a4963e5f5c2fd34","shareButtonOptions":{"6":true,"1":true,"8":true,"3":true,"4":true,"2":true,"7":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1488393525682-J0XZVGW744TUCL6N6BZ1/RobertCarpentry_Complete.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1490846686889-7YZG7K6ENKKV4GB9UPJA/RobertCarpentry_Share.jpg","authenticUrl":"https://www.robertcarpentry.com","internalUrl":"https://myview-websitetest.squarespace.com","baseUrl":"https://www.robertcarpentry.com","primaryDomain":"www.robertcarpentry.com","sslSetting":3,"socialAccounts":[{"serviceId":10,"userId":"1081729497","userName":"robertcarpentry","screenname":"ROBERT CARPENTRY","addedOn":1488302787873,"profileUrl":"http://instagram.com/robertcarpentry","iconUrl":"https://scontent.cdninstagram.com/t51.2885-19/10725102_1525978421023759_1358705633_a.jpg","collectionId":"58b5b2c3bebafb4a4151435c","iconEnabled":true,"serviceName":"instagram"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"c42a8af2fad385ccb9695ec12a32bfb168f46ee88e4e5ba7cd3021c8767a9ca5","showOwnerLogin":false},"websiteSettings":{"id":"58b484fe725e251157557d74","websiteId":"58b484fe725e251157557d72","subjects":[],"country":"US","state":"FL","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"popupOverlaySettings":{"style":1,"enabledPages":[]},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","NOK","AUD","SGD","GBP","SEK","NZD"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Continuum","id":"58b4c5dbc534a5d38a7d27fa","fullUrl":"/continuum","type":1,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","design":"Slideshow","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-controls":"Both","gallery-design":"Grid","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","grid-aspect-ratio":"1:1 (Square)","gridSize":"350px","gridSpacing":"20px","headerPadding":"19px","homepage-index-nav":"Show On Scroll","logoWidth":"300px","product-gallery-auto-crop":"false","product-image-auto-crop":"true","siteTitleContainerWidth":"255px","slideshow-aspect-ratio":"2.40:1 (Cinema)","slideshow-autoplay":"true","slideshow-transition":"Fade","tweak-v1-related-products-title-spacing":"50px"},"templateId":"52e96934e4b0ea14d0f64568","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/52e968b5e4b04d2aa2a3bba3/1129/scripts/","betaFeatureFlags":["scripts_defer","campaigns_discount_section_in_blasts","show_add_to_cart_in_plp","crm_utilize_static_asset_system","campaigns_discount_section_in_automations","order_status_page_checkout_landing_enabled","is_feature_gate_refresh_enabled","background_art_onboarding","campaigns_import_discounts","marketing_landing_page","commerce_etsy_product_import","website_fonts","crm_enforce_recaptcha_v3_enterprise","member_areas_provisioning_service","campaigns_global_uc_ab","enable_css_variable_tweaks","member_areas_schedule_interview","send_local_pickup_ready_email","member_areas_spanish_interviews","accounting_orders_sync","crm_waitlist_enforce_recaptcha_v3_enterprise","commerce_clearpay","commerce_order_status_access","fluid_engine","image_component","crm_retention_segment","fluid_engine_clean_up_grid_contextual_change","use_migrated_member_site_permission_checker","campaigns_thumbnail_layout","nested_categories_migration_enabled","enabling-customer-accounts-on-business-plans","site_user_email_change","crm_remove_subscriber","commerce_etsy_shipping_import","customer_accounts_email_verification","toggle_preview_new_shortcut","visitor_react_forms","campaigns_new_image_layout_picker","crm_enable_recaptcha_v3_enterprise","crm_show_profile_forms","commsplat_forms_visitor_profile","commerce_site_visitor_metrics","customer_account_creation_recaptcha","crm_default_newsletter_block_to_campaigns","project_selling_initiative_mvp_in_circle_labs","commerce_restock_notifications","viewer-role-contributor-invites"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-300,"US","E%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/New_York","name":"Eastern Time"}}};</script><script type="module">SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script>
+<script data-sqs-type="imageloader-bootstrapper" type="module">if(window.ImageLoader) window.ImageLoader.bootstrap({}, document);</script>
+<script type="module">Squarespace.afterBodyLoad(Y);</script>
+<script type="application/ld+json">{"url":"https://www.robertcarpentry.com","name":"Robert Carpentry ","description":"","image":"//images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1488393525682-J0XZVGW744TUCL6N6BZ1/RobertCarpentry_Complete.png","@context":"http://schema.org","@type":"WebSite"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/58b484fe725e251157557d72/97/52e96934e4b0ea14d0f64568/58b49e4544024328224e5af1/1129/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+    <script>/* Must be below squarespace-headers */(function(){var touchTest="ontouchstart"in window||navigator.msMaxTouchPoints;if(!touchTest){with(document.documentElement){className=className.replace(new RegExp("touch-styles"),"")}}})()</script>
+  </head>
+  
+  <body id="collection-58b4c5dbc534a5d38a7d27fa" class="homepage-index-nav-show-on-scroll show-page-title index-section-separation-alternating-background design-slideshow grid-aspect-ratio-11-square grid-max-columns-four slideshow-aspect-ratio-2401-cinema slideshow-transition-fade slideshow-autoplay gallery-controls-both gallery-controls-color-light  meta-priority-date hide-entry-author  pre-footer-content-custom   show-category-navigation   event-show-past-events event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts  event-item-back-link    gallery-design-grid aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square  show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-dark hide-opentable-icons opentable-style-dark small-button-style-outline small-button-shape-square medium-button-style-outline medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-center image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-center image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left  image-block-stack-text-alignment-center button-style-outline button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-58b4c5dbc534a5d38a7d27fa collection-type-gallery collection-layout-default view-list mobile-style-available logo-image has-banner-image general-page collection-continuum">
+
+    <div id="site">
+
+      <input type="checkbox" name="mobile-nav-toggle" id="mobileNavToggle" class="mobile-nav-toggle-box hidden" />
+
+      <div id="overlayNav">
+        
+
+  <div id="mobileNavWrapper" class="nav-wrapper">
+    <nav id="mobileNavigation">
+      
+        
+          
+            
+              
+                
+                  
+                    
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#restaurant-section">
+                        About
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#slider-section">
+                        Slider
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#menu-section">
+                        What We do
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#drinks-section">
+                        Projects
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#new-page-section">
+                        New Page
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#new-page-1-section">
+                        New Page
+                      </a>
+                    </div>
+                    
+                  
+                
+              
+              <div class="index base">
+                <a href="/">
+                  HOME
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/about">
+                ABOUT
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/services">
+                SERVICES
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/portfolio">
+                PORTFOLIO
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/contact">
+                CONTACT
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+
+
+      
+    </nav>
+  </div>
+
+
+      </div>
+
+      <header id="header" role="banner">
+        <div class="header-inner">
+          <div id="logoWrapper" class="title-logo-wrapper" data-content-field="site-title">
+            
+              <h1 id="logoImage" class="tmpl-loading logo-image"><a href="/"><img src="//images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1488393525682-J0XZVGW744TUCL6N6BZ1/RobertCarpentry_Complete.png?format=1500w" alt="Robert Carpentry " /></a></h1>
+            
+          </div><!-- comment the linebreak between these two elements because science
+          --><label for="mobileNavToggle" class="mobile-nav-toggle-label show-on-scroll-mobile"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></label><!-- comment the linebreak between these two elements because science
+          --><div id="headerNav" class="tmpl-loading" >
+
+  <div id="mainNavWrapper" class="nav-wrapper desktop-nav-wrapper show-on-scroll">
+    <nav id="mainNavigation" data-content-field="navigation" >
+      
+        
+          
+            
+              
+                
+                  
+                    
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#restaurant-section">
+                        About
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#slider-section">
+                        Slider
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#menu-section">
+                        What We do
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#drinks-section">
+                        Projects
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#new-page-section">
+                        New Page
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#new-page-1-section">
+                        New Page
+                      </a>
+                    </div>
+                    
+                  
+                
+              
+              <div class="index base">
+                <a href="/">
+                  HOME
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/about">
+                ABOUT
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/services">
+                SERVICES
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/portfolio">
+                PORTFOLIO
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/contact">
+                CONTACT
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+
+      
+    </nav>
+  </div>
+  <!-- style below blocks out the mobile nav toggle only when nav is loaded -->
+  <style>.mobile-nav-toggle-label { display: inline-block; }</style>
+
+
+</div>
+        </div>
+      </header>
+
+      <div id="siteWrapper" class="clearfix">
+
+        <!-- Banner -->
+        
+          
+            
+              
+                
+                  <div class="banner-thumbnail-wrapper">
+                  
+                    <div class="color-overlay"></div>
+                    <figure id="thumbnail" class="loading content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509778839-FKXIR1TZJCFN2H4BQO81/IMG_Continuum_RobertCarpentry1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509778839-FKXIR1TZJCFN2H4BQO81/IMG_Continuum_RobertCarpentry1.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry1.jpg"  data-load="false" /></figure>
+                  
+                    <div class="desc-wrapper tmpl-loading" data-collection-id="58b4c5dbc534a5d38a7d27fa">
+                      <h1 class="page-title">Continuum</h1>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+          
+        
+
+        
+        
+
+        <main id="page" role="main">
+          <div id="content" class="main-content" data-content-field="main-content" data-collection-id="58b4c5dbc534a5d38a7d27fa" data-edit-main-image="Banner">
+
+            
+              
+
+              
+            
+
+           <!--GALLERY WRAPPER-->
+
+<div class="sqs-system-gallery sqs-system-gallery-init sqs-gallery-list">
+
+  <div class="gallery-wrapper">
+
+    <!--FULL SIZE IMAGES-->
+
+    <div class="slides-controls">
+      <div class="slides" data-collection-full-url="/continuum">
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a776388251b2811ad8e88" data-slide-url="oal9m0edfjmjxqnww5mwoz05rylnhb" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509737820-60MCUZ7Q2W5TQ6HUDVRB/IMG_Continuum_RobertCarpentry1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509737820-60MCUZ7Q2W5TQ6HUDVRB/IMG_Continuum_RobertCarpentry1.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry1.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a776388251b2811ad8e88">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a776888251b2811ad8ea9" data-slide-url="jwdxkfy4b9qeq5r5c867v688j3s598" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509737903-W7IZ9LDP37XPTBO6M7QX/IMG_Continuum_RobertCarpentry2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509737903-W7IZ9LDP37XPTBO6M7QX/IMG_Continuum_RobertCarpentry2.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry2.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a776888251b2811ad8ea9">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a776b03ce6472fce4bb9a" data-slide-url="8chd18y46pm2j1u1603udrs3q5atgc" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509740548-FS6CBUKM7D32KDC3QCI3/IMG_Continuum_RobertCarpentry3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509740548-FS6CBUKM7D32KDC3QCI3/IMG_Continuum_RobertCarpentry3.jpg" data-image-dimensions="1500x2251" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry3.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a776b03ce6472fce4bb9a">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a776cf950b736e9c5e061" data-slide-url="1zdxp75fsz06eh040hvksvab2sumt5" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509741383-1F8EW3RW3HX0HWYTEF18/IMG_Continuum_RobertCarpentry4.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509741383-1F8EW3RW3HX0HWYTEF18/IMG_Continuum_RobertCarpentry4.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry4.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a776cf950b736e9c5e061">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a776d1ae6cf35fda07cd5" data-slide-url="320c4rw0ew7cm56q8v1w0g5t8kt7xu" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509741581-AMG8E2NCHADSE69VFB29/IMG_Continuum_RobertCarpentry5.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509741581-AMG8E2NCHADSE69VFB29/IMG_Continuum_RobertCarpentry5.jpg" data-image-dimensions="1500x1026" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry5.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a776d1ae6cf35fda07cd5">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a776d352f5307aa03689d" data-slide-url="bvahifw1u5487yu7llwpvqxhl63puh" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509742269-D4RGPWGLVRT6U9OB582P/IMG_Continuum_RobertCarpentry6.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509742269-D4RGPWGLVRT6U9OB582P/IMG_Continuum_RobertCarpentry6.jpg" data-image-dimensions="1500x974" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry6.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a776d352f5307aa03689d">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a776d1ae6cf35fda07cf5" data-slide-url="ryzeniao6pd7msnob3sx05xbhku146" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509742506-OIUEW2M7FQRBWC2CNEDF/IMG_Continuum_RobertCarpentry7.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509742506-OIUEW2M7FQRBWC2CNEDF/IMG_Continuum_RobertCarpentry7.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry7.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a776d1ae6cf35fda07cf5">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a776e70a6adf047432719" data-slide-url="lop0oexz8ufi0x110xphcn7zn2tmr7" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509743970-5UG0VBGIK1KKAQ9GHLSO/IMG_Continuum_RobertCarpentry8.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509743970-5UG0VBGIK1KKAQ9GHLSO/IMG_Continuum_RobertCarpentry8.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry8.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a776e70a6adf047432719">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a776f352f5307aa036980" data-slide-url="f40jtyf65mi14pk42vimg8l2irkh30" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509744013-H5TQ6F502EDWL8YFNEA6/IMG_Continuum_RobertCarpentry9.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509744013-H5TQ6F502EDWL8YFNEA6/IMG_Continuum_RobertCarpentry9.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry9.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a776f352f5307aa036980">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a7770562fa7411849ac41" data-slide-url="9t5cl2ppljxlzedhwvygjyeegl0pe1" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509744824-KSSEWYGE021Q2MRIDLGE/IMG_Continuum_RobertCarpentry10.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509744824-KSSEWYGE021Q2MRIDLGE/IMG_Continuum_RobertCarpentry10.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry10.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a7770562fa7411849ac41">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a777070a6adf047432739" data-slide-url="hyklmcxcfxnzo2ymmhidjxo618lmid" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509744904-U6B6L58CNL4KD7TRC4R7/IMG_Continuum_RobertCarpentry11.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509744904-U6B6L58CNL4KD7TRC4R7/IMG_Continuum_RobertCarpentry11.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry11.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a777070a6adf047432739">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a7771575d1f9c7625d9e8" data-slide-url="q96mxgxxpoznv3f8znmdl1uini2xru" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509745729-359R13OMVSGK07DDJU70/IMG_Continuum_RobertCarpentry12.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509745729-359R13OMVSGK07DDJU70/IMG_Continuum_RobertCarpentry12.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry12.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a7771575d1f9c7625d9e8">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a77718a922d5cdf42bc04" data-slide-url="973psh5xh73dmjele9ob5y0qgx02m0" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509745807-L29C2AB7E93DYQLD7Q2K/IMG_Continuum_RobertCarpentry13.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509745807-L29C2AB7E93DYQLD7Q2K/IMG_Continuum_RobertCarpentry13.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry13.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a77718a922d5cdf42bc04">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a77721ae6cf35fda07dee" data-slide-url="i2ur8za64eqgcoxwrtirlxv9jwhe3e" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509746607-KAAKG8BFBGYBQOP65ETN/IMG_Continuum_RobertCarpentry14.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509746607-KAAKG8BFBGYBQOP65ETN/IMG_Continuum_RobertCarpentry14.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry14.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a77721ae6cf35fda07dee">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a7772758d46c87da15dd6" data-slide-url="e3cr2svi40pn7z6fecvhd5sr9pgu6g" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509746789-L3SXO5B3KGWDTY9AMYVW/IMG_Continuum_RobertCarpentry15.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509746789-L3SXO5B3KGWDTY9AMYVW/IMG_Continuum_RobertCarpentry15.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry15.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a7772758d46c87da15dd6">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a777203ce6472fce4bcd3" data-slide-url="a92p1fce4jx93gygjhazr729amjl8q" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509747122-FHGTC4RM06I20X9KJ7QL/IMG_Continuum_RobertCarpentry16.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509747122-FHGTC4RM06I20X9KJ7QL/IMG_Continuum_RobertCarpentry16.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry16.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a777203ce6472fce4bcd3">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a77730e2e724a97a174fb" data-slide-url="4uxg7u2qbbh35irqsgganawj20fb42" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509747398-SY2DCDRFFLRNEFSDTBNY/IMG_Continuum_RobertCarpentry17.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509747398-SY2DCDRFFLRNEFSDTBNY/IMG_Continuum_RobertCarpentry17.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry17.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a77730e2e724a97a174fb">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a77736d2a73fa976ab64a" data-slide-url="w0xqqd9ivj7k4a8yz1vj5n0fw5y1my" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509748183-UDY060063WQBKF6N9EDG/IMG_Continuum_RobertCarpentry18.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509748183-UDY060063WQBKF6N9EDG/IMG_Continuum_RobertCarpentry18.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry18.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a77736d2a73fa976ab64a">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a7773352f5307aa0369e4" data-slide-url="g7gwt37vgd4hqcvij4qkhi35ddq8ip" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509748342-FBH33W4DKNCF0B3LI22K/IMG_Continuum_RobertCarpentry19.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509748342-FBH33W4DKNCF0B3LI22K/IMG_Continuum_RobertCarpentry19.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry19.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a7773352f5307aa0369e4">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a7774575d1f9c7625db5e" data-slide-url="m1j2dy4d26gwl7v20cdi9a8gwjjhrv" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509748946-T0FNV38QBNSSIXV9ZEYA/IMG_Continuum_RobertCarpentry20.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509748946-T0FNV38QBNSSIXV9ZEYA/IMG_Continuum_RobertCarpentry20.jpg" data-image-dimensions="1500x919" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry20.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a7774575d1f9c7625db5e">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a777470a6adf0474328e2" data-slide-url="o1zstgw2lcg8rrq86blwl8p2uzu826" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509749270-85734W2FIPR50HMSMILF/IMG_Continuum_RobertCarpentry21.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509749270-85734W2FIPR50HMSMILF/IMG_Continuum_RobertCarpentry21.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry21.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a777470a6adf0474328e2">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a777503ce6472fce4bdd4" data-slide-url="nhyum0kztd07dwnb5glvndc404i11p" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509749839-GDFA95RLL2OG284C4VGO/IMG_Continuum_RobertCarpentry22.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509749839-GDFA95RLL2OG284C4VGO/IMG_Continuum_RobertCarpentry22.jpg" data-image-dimensions="1500x989" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry22.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a777503ce6472fce4bdd4">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a77758a922d5cdf42bc88" data-slide-url="ghu7306xsz2dtc47rsvy14ija5yszz" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509750172-U53NAJNIGQSM0RXVZIG4/IMG_Continuum_RobertCarpentry23.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509750172-U53NAJNIGQSM0RXVZIG4/IMG_Continuum_RobertCarpentry23.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry23.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a77758a922d5cdf42bc88">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a77760e2e724a97a17606" data-slide-url="yb1rsrbmbdmyccdsx61p79ocyzdogl" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509750562-G9P0I11QHCZJPGMDJRKK/IMG_Continuum_RobertCarpentry24.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509750562-G9P0I11QHCZJPGMDJRKK/IMG_Continuum_RobertCarpentry24.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry24.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a77760e2e724a97a17606">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a77760e2e724a97a17607" data-slide-url="m7a05x8ahuzr7s0p03nuazxecjskpj" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509751009-ENZDLY42UNX8LNJBCRJD/IMG_Continuum_RobertCarpentry25.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509751009-ENZDLY42UNX8LNJBCRJD/IMG_Continuum_RobertCarpentry25.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry25.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a77760e2e724a97a17607">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a7777562fa7411849ad81" data-slide-url="serrcclvi05rv9301qcvqksy66b6s1" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509752068-0MRP5LPJT63TMVN70Z4C/IMG_Continuum_RobertCarpentry26.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509752068-0MRP5LPJT63TMVN70Z4C/IMG_Continuum_RobertCarpentry26.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry26.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a7777562fa7411849ad81">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a77772b6a28f608bd5a21" data-slide-url="08526iqmjyvmxgtr48l0bbt5rmw5tb" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509752562-YE92AXQG4SUUKXCOS2HC/IMG_Continuum_RobertCarpentry27.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509752562-YE92AXQG4SUUKXCOS2HC/IMG_Continuum_RobertCarpentry27.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry27.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a77772b6a28f608bd5a21">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a7778562fa7411849ae57" data-slide-url="uue9sx47gwqepjpt6pnvr71wq8dnnk" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509752869-N17OKFFP7UQFIIHXW01I/IMG_Continuum_RobertCarpentry28.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509752869-N17OKFFP7UQFIIHXW01I/IMG_Continuum_RobertCarpentry28.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry28.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a7778562fa7411849ae57">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a77796d2a73fa976ab856" data-slide-url="q55pzfk00iyq2hs9pz8n5w7oup7eje" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509753830-HN4R12JPHTQ3KONK1N92/IMG_Continuum_RobertCarpentry29.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509753830-HN4R12JPHTQ3KONK1N92/IMG_Continuum_RobertCarpentry29.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry29.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a77796d2a73fa976ab856">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a777903ce6472fce4be5d" data-slide-url="ip7ovbz4nd8tglxkmtvbmw8r9i11tv" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509753816-9CTBNQ63NH6QLL1SP6HJ/IMG_Continuum_RobertCarpentry30.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509753816-9CTBNQ63NH6QLL1SP6HJ/IMG_Continuum_RobertCarpentry30.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry30.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a777903ce6472fce4be5d">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a777a03ce6472fce4be6a" data-slide-url="gglsuwzn37o88hmpb4q2cwtzgozzjk" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509754425-UP26MKBAZHN1MLSHW3JJ/IMG_Continuum_RobertCarpentry31.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509754425-UP26MKBAZHN1MLSHW3JJ/IMG_Continuum_RobertCarpentry31.jpg" data-image-dimensions="1500x830" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry31.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a777a03ce6472fce4be6a">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a777a352f5307aa036bd1" data-slide-url="iko4aepi96f85o3wwh52n7a6c2bver" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509754694-6VUGBSDB9DIS9V3N44PX/IMG_Continuum_RobertCarpentry32.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509754694-6VUGBSDB9DIS9V3N44PX/IMG_Continuum_RobertCarpentry32.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry32.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a777a352f5307aa036bd1">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a778588251b2811ad940d" data-slide-url="ipimx2qun26o1hzc74rpqr1g3ip3sx" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509771045-58T51X24VBHB8YAS2D1Q/IMG_Continuum_RobertCarpentry33.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509771045-58T51X24VBHB8YAS2D1Q/IMG_Continuum_RobertCarpentry33.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry33.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a778588251b2811ad940d">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a777b70a6adf047432a2e" data-slide-url="kzpt7orr4baqyqaekhdkc9zs2qv1rw" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509755707-HHUJ16U24VXHIDGORUEF/IMG_Continuum_RobertCarpentry34.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509755707-HHUJ16U24VXHIDGORUEF/IMG_Continuum_RobertCarpentry34.jpg" data-image-dimensions="1500x856" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry34.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a777b70a6adf047432a2e">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+
+          <!--SLIDE-->
+
+          <div class="slide" data-slide-id="5b2a777c03ce6472fce4bf6d" data-slide-url="o77vltpnkgkjgbs70ga5qw00aw3p0a" >
+
+            <!--IMAGE-->
+
+            
+              
+                <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509756584-4B932189OHDNHOKAYUPY/IMG_Continuum_RobertCarpentry35.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509756584-4B932189OHDNHOKAYUPY/IMG_Continuum_RobertCarpentry35.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry35.jpg"  data-load="false" />
+              
+
+              <!--SLIDE META-->
+
+              <div class="slide-meta" data-slide-id="5b2a777c03ce6472fce4bf6d">
+                
+                
+
+
+              </div>
+            
+
+            <!--VIDEO-->
+
+            
+
+          </div>
+
+        
+      </div>
+
+      <!--PREVIOUS/NEXT CONTROLS-->
+      <span class="arrow previous-slide"></span>
+      <span class="arrow next-slide"></span>
+
+      <!--CIRCLES-->
+      <div class="circles gallery-nav">
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+          <span class="circle"></span>
+        
+      </div>
+    </div>
+  </div>
+
+  <!--DOTS-->
+  <div class="dots gallery-nav">
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+      <span class="dot"></span>
+    
+  </div>
+
+  <!--NUMBERS-->
+  <div class="numbers gallery-nav">
+    
+      <span class="number">1</span>
+    
+      <span class="number">2</span>
+    
+      <span class="number">3</span>
+    
+      <span class="number">4</span>
+    
+      <span class="number">5</span>
+    
+      <span class="number">6</span>
+    
+      <span class="number">7</span>
+    
+      <span class="number">8</span>
+    
+      <span class="number">9</span>
+    
+      <span class="number">10</span>
+    
+      <span class="number">11</span>
+    
+      <span class="number">12</span>
+    
+      <span class="number">13</span>
+    
+      <span class="number">14</span>
+    
+      <span class="number">15</span>
+    
+      <span class="number">16</span>
+    
+      <span class="number">17</span>
+    
+      <span class="number">18</span>
+    
+      <span class="number">19</span>
+    
+      <span class="number">20</span>
+    
+      <span class="number">21</span>
+    
+      <span class="number">22</span>
+    
+      <span class="number">23</span>
+    
+      <span class="number">24</span>
+    
+      <span class="number">25</span>
+    
+      <span class="number">26</span>
+    
+      <span class="number">27</span>
+    
+      <span class="number">28</span>
+    
+      <span class="number">29</span>
+    
+      <span class="number">30</span>
+    
+      <span class="number">31</span>
+    
+      <span class="number">32</span>
+    
+      <span class="number">33</span>
+    
+      <span class="number">34</span>
+    
+      <span class="number">35</span>
+    
+  </div>
+
+  <!--SIMPLE-->
+  <div class="simple gallery-nav">
+    <span class="current-index"></span><span class="total-slides"></span>
+    <span class="previous"><span class="navigation-text">Previous</span></span>
+    <span class="next"><span class="navigation-text">Next</span></span>
+  </div>
+
+  <!--THUMBNAILS-->
+
+  <div class="thumbnail-wrapper gallery-nav">
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509737820-60MCUZ7Q2W5TQ6HUDVRB/IMG_Continuum_RobertCarpentry1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509737820-60MCUZ7Q2W5TQ6HUDVRB/IMG_Continuum_RobertCarpentry1.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry1.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509737903-W7IZ9LDP37XPTBO6M7QX/IMG_Continuum_RobertCarpentry2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509737903-W7IZ9LDP37XPTBO6M7QX/IMG_Continuum_RobertCarpentry2.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry2.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509740548-FS6CBUKM7D32KDC3QCI3/IMG_Continuum_RobertCarpentry3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509740548-FS6CBUKM7D32KDC3QCI3/IMG_Continuum_RobertCarpentry3.jpg" data-image-dimensions="1500x2251" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry3.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509741383-1F8EW3RW3HX0HWYTEF18/IMG_Continuum_RobertCarpentry4.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509741383-1F8EW3RW3HX0HWYTEF18/IMG_Continuum_RobertCarpentry4.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry4.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509741581-AMG8E2NCHADSE69VFB29/IMG_Continuum_RobertCarpentry5.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509741581-AMG8E2NCHADSE69VFB29/IMG_Continuum_RobertCarpentry5.jpg" data-image-dimensions="1500x1026" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry5.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509742269-D4RGPWGLVRT6U9OB582P/IMG_Continuum_RobertCarpentry6.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509742269-D4RGPWGLVRT6U9OB582P/IMG_Continuum_RobertCarpentry6.jpg" data-image-dimensions="1500x974" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry6.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509742506-OIUEW2M7FQRBWC2CNEDF/IMG_Continuum_RobertCarpentry7.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509742506-OIUEW2M7FQRBWC2CNEDF/IMG_Continuum_RobertCarpentry7.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry7.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509743970-5UG0VBGIK1KKAQ9GHLSO/IMG_Continuum_RobertCarpentry8.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509743970-5UG0VBGIK1KKAQ9GHLSO/IMG_Continuum_RobertCarpentry8.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry8.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509744013-H5TQ6F502EDWL8YFNEA6/IMG_Continuum_RobertCarpentry9.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509744013-H5TQ6F502EDWL8YFNEA6/IMG_Continuum_RobertCarpentry9.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry9.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509744824-KSSEWYGE021Q2MRIDLGE/IMG_Continuum_RobertCarpentry10.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509744824-KSSEWYGE021Q2MRIDLGE/IMG_Continuum_RobertCarpentry10.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry10.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509744904-U6B6L58CNL4KD7TRC4R7/IMG_Continuum_RobertCarpentry11.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509744904-U6B6L58CNL4KD7TRC4R7/IMG_Continuum_RobertCarpentry11.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry11.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509745729-359R13OMVSGK07DDJU70/IMG_Continuum_RobertCarpentry12.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509745729-359R13OMVSGK07DDJU70/IMG_Continuum_RobertCarpentry12.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry12.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509745807-L29C2AB7E93DYQLD7Q2K/IMG_Continuum_RobertCarpentry13.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509745807-L29C2AB7E93DYQLD7Q2K/IMG_Continuum_RobertCarpentry13.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry13.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509746607-KAAKG8BFBGYBQOP65ETN/IMG_Continuum_RobertCarpentry14.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509746607-KAAKG8BFBGYBQOP65ETN/IMG_Continuum_RobertCarpentry14.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry14.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509746789-L3SXO5B3KGWDTY9AMYVW/IMG_Continuum_RobertCarpentry15.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509746789-L3SXO5B3KGWDTY9AMYVW/IMG_Continuum_RobertCarpentry15.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry15.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509747122-FHGTC4RM06I20X9KJ7QL/IMG_Continuum_RobertCarpentry16.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509747122-FHGTC4RM06I20X9KJ7QL/IMG_Continuum_RobertCarpentry16.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry16.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509747398-SY2DCDRFFLRNEFSDTBNY/IMG_Continuum_RobertCarpentry17.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509747398-SY2DCDRFFLRNEFSDTBNY/IMG_Continuum_RobertCarpentry17.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry17.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509748183-UDY060063WQBKF6N9EDG/IMG_Continuum_RobertCarpentry18.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509748183-UDY060063WQBKF6N9EDG/IMG_Continuum_RobertCarpentry18.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry18.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509748342-FBH33W4DKNCF0B3LI22K/IMG_Continuum_RobertCarpentry19.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509748342-FBH33W4DKNCF0B3LI22K/IMG_Continuum_RobertCarpentry19.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry19.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509748946-T0FNV38QBNSSIXV9ZEYA/IMG_Continuum_RobertCarpentry20.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509748946-T0FNV38QBNSSIXV9ZEYA/IMG_Continuum_RobertCarpentry20.jpg" data-image-dimensions="1500x919" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry20.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509749270-85734W2FIPR50HMSMILF/IMG_Continuum_RobertCarpentry21.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509749270-85734W2FIPR50HMSMILF/IMG_Continuum_RobertCarpentry21.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry21.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509749839-GDFA95RLL2OG284C4VGO/IMG_Continuum_RobertCarpentry22.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509749839-GDFA95RLL2OG284C4VGO/IMG_Continuum_RobertCarpentry22.jpg" data-image-dimensions="1500x989" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry22.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509750172-U53NAJNIGQSM0RXVZIG4/IMG_Continuum_RobertCarpentry23.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509750172-U53NAJNIGQSM0RXVZIG4/IMG_Continuum_RobertCarpentry23.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry23.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509750562-G9P0I11QHCZJPGMDJRKK/IMG_Continuum_RobertCarpentry24.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509750562-G9P0I11QHCZJPGMDJRKK/IMG_Continuum_RobertCarpentry24.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry24.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509751009-ENZDLY42UNX8LNJBCRJD/IMG_Continuum_RobertCarpentry25.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509751009-ENZDLY42UNX8LNJBCRJD/IMG_Continuum_RobertCarpentry25.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry25.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509752068-0MRP5LPJT63TMVN70Z4C/IMG_Continuum_RobertCarpentry26.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509752068-0MRP5LPJT63TMVN70Z4C/IMG_Continuum_RobertCarpentry26.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry26.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509752562-YE92AXQG4SUUKXCOS2HC/IMG_Continuum_RobertCarpentry27.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509752562-YE92AXQG4SUUKXCOS2HC/IMG_Continuum_RobertCarpentry27.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry27.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509752869-N17OKFFP7UQFIIHXW01I/IMG_Continuum_RobertCarpentry28.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509752869-N17OKFFP7UQFIIHXW01I/IMG_Continuum_RobertCarpentry28.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry28.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509753830-HN4R12JPHTQ3KONK1N92/IMG_Continuum_RobertCarpentry29.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509753830-HN4R12JPHTQ3KONK1N92/IMG_Continuum_RobertCarpentry29.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry29.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509753816-9CTBNQ63NH6QLL1SP6HJ/IMG_Continuum_RobertCarpentry30.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509753816-9CTBNQ63NH6QLL1SP6HJ/IMG_Continuum_RobertCarpentry30.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry30.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509754425-UP26MKBAZHN1MLSHW3JJ/IMG_Continuum_RobertCarpentry31.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509754425-UP26MKBAZHN1MLSHW3JJ/IMG_Continuum_RobertCarpentry31.jpg" data-image-dimensions="1500x830" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry31.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509754694-6VUGBSDB9DIS9V3N44PX/IMG_Continuum_RobertCarpentry32.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509754694-6VUGBSDB9DIS9V3N44PX/IMG_Continuum_RobertCarpentry32.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry32.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509771045-58T51X24VBHB8YAS2D1Q/IMG_Continuum_RobertCarpentry33.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509771045-58T51X24VBHB8YAS2D1Q/IMG_Continuum_RobertCarpentry33.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry33.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509755707-HHUJ16U24VXHIDGORUEF/IMG_Continuum_RobertCarpentry34.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509755707-HHUJ16U24VXHIDGORUEF/IMG_Continuum_RobertCarpentry34.jpg" data-image-dimensions="1500x856" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry34.jpg"  data-load="false" />
+      </div>
+    
+      <div class="thumbnail">
+        <img data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509756584-4B932189OHDNHOKAYUPY/IMG_Continuum_RobertCarpentry35.jpg" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1529509756584-4B932189OHDNHOKAYUPY/IMG_Continuum_RobertCarpentry35.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="IMG_Continuum_RobertCarpentry35.jpg"  data-load="false" />
+      </div>
+    
+  </div>
+
+</div>
+          </div>
+        </main>
+
+        <div id="preFooter">
+          <div class="pre-footer-inner with-custom">
+  <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Pre-Footer Content" data-type="block-field" data-updated-on="1494527198225" id="preFooterBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_2_1490801210962_8831"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-8 span-8"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_2_1490801210962_6848"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          
+          
+          
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1642px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:19.06212043762207%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                  <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1494527185801-4V9YXWAY7QRAZ6CTBKHZ/PreFooterpsd_3.png" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1494527185801-4V9YXWAY7QRAZ6CTBKHZ/PreFooterpsd_3.png" data-image-dimensions="1642x313" data-image-focal-point="0.5,0.5" alt="PreFooterpsd_3.png" data-load="false" src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1494527185801-4V9YXWAY7QRAZ6CTBKHZ/PreFooterpsd_3.png" width="1642" height="313" alt="" sizes="100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1494527185801-4V9YXWAY7QRAZ6CTBKHZ/PreFooterpsd_3.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1494527185801-4V9YXWAY7QRAZ6CTBKHZ/PreFooterpsd_3.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1494527185801-4V9YXWAY7QRAZ6CTBKHZ/PreFooterpsd_3.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1494527185801-4V9YXWAY7QRAZ6CTBKHZ/PreFooterpsd_3.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1494527185801-4V9YXWAY7QRAZ6CTBKHZ/PreFooterpsd_3.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1494527185801-4V9YXWAY7QRAZ6CTBKHZ/PreFooterpsd_3.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1494527185801-4V9YXWAY7QRAZ6CTBKHZ/PreFooterpsd_3.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_2_1490801210962_9844"><div class="sqs-block-content">&nbsp;</div></div></div></div></div></div></div>
+</div>
+
+        </div>
+
+        <footer id="footer" role="contentinfo">
+          <div class="footer-inner">
+            <div class="nav-wrapper back-to-top-nav"><nav><div class="back-to-top"><a href="#header">Back To Top</a></div></nav></div>
+            
+
+
+            
+            <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1490845030363" id="footerBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block embed-block sqs-block-embed" data-block-json="&#123;&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;html&quot;:&quot;&lt;html&gt;\n&lt;body&gt;\n\n&lt;p align=\&quot;center\&quot;&lt;/p&gt; &lt;font face=\&quot;futura\&quot;&gt;Follow us:&lt;/font&gt;\n\n&lt;a href=\&quot;https://www.instagram.com/robertcarpentry/\&quot;&gt;\n&lt;img border=\&quot;0\&quot; align=\&quot;center\&quot; src=\&quot;https://static1.squarespace.com/static/58d1683015d5dbcf5a41a901/58d5442a03596e76068146f3/58d5444615d5db439278d62f/1490371655941/Stambul_Social_Icons_Instagram.png?format=500w\&quot; width=\&quot;35\&quot; height=\&quot;32\&quot;&gt;\n&lt;/a&gt;\n\n&lt;a href=\&quot;https://www.houzz.com/pro/robertcarpentry1/robert-carpentry-inc\&quot;&gt;\n&lt;img border=\&quot;0\&quot; align=\&quot;center\&quot; src=\&quot;https://static1.squarespace.com/static/58d1683015d5dbcf5a41a901/58d5442a03596e76068146f3/58d544462994caac0f08593f/1490371655782/Stambul_Social_Icons_Houzz.png?format=500w\&quot; width=\&quot;35\&quot; height=\&quot;32\&quot;&gt;\n&lt;/a&gt;\n&lt;/p&gt;\n\n&lt;/body&gt;\n&lt;/html&gt;\n&quot;,&quot;resolvedBy&quot;:&quot;manual&quot;,&quot;resolved&quot;:true&#125;" data-block-type="22" id="block-yui_3_17_2_2_1490799292879_7765"><div class="sqs-block-content"><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" >
+<body>
+
+<p align="center"</p> <font face="futura">Follow us:</font>
+
+<a href="https://www.instagram.com/robertcarpentry/">
+<img border="0" align="center" src="https://static1.squarespace.com/static/58d1683015d5dbcf5a41a901/58d5442a03596e76068146f3/58d5444615d5db439278d62f/1490371655941/Stambul_Social_Icons_Instagram.png?format=500w" width="35" height="32">
+</a>
+
+<a href="https://www.houzz.com/pro/robertcarpentry1/robert-carpentry-inc">
+<img border="0" align="center" src="https://static1.squarespace.com/static/58d1683015d5dbcf5a41a901/58d5442a03596e76068146f3/58d544462994caac0f08593f/1490371655782/Stambul_Social_Icons_Houzz.png?format=500w" width="35" height="32">
+</a>
+</p>
+
+</body>
+</html>
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="44" data-block-type="5" id="block-yui_3_17_2_2_1490844861037_5045"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          
+          
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:200px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:44%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                  <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1490844898944-K1O7PTX72X4QPV4IPD0F/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1490844898944-K1O7PTX72X4QPV4IPD0F/image-asset.png" data-image-dimensions="200x104" data-image-focal-point="0.5,0.5" alt="" data-load="false" src="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1490844898944-K1O7PTX72X4QPV4IPD0F/image-asset.png" width="200" height="104" alt="" sizes="100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1490844898944-K1O7PTX72X4QPV4IPD0F/image-asset.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1490844898944-K1O7PTX72X4QPV4IPD0F/image-asset.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1490844898944-K1O7PTX72X4QPV4IPD0F/image-asset.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1490844898944-K1O7PTX72X4QPV4IPD0F/image-asset.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1490844898944-K1O7PTX72X4QPV4IPD0F/image-asset.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1490844898944-K1O7PTX72X4QPV4IPD0F/image-asset.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/58b484fe725e251157557d72/1490844898944-K1O7PTX72X4QPV4IPD0F/image-asset.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block embed-block sqs-block-embed" data-block-json="&#123;&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;html&quot;:&quot;&lt;html&gt;\n&lt;body&gt;\n\n&lt;p align=\&quot;center\&quot;\n&lt;p&gt;&lt;font face= \&quot;futura\&quot; size= \&quot;2\&quot;&gt;\u00A9 Copyright 2017 Robert Carpentry &#124; Brand Development &amp; Website by \n&lt;html&gt;\n&lt;head&gt;\n&lt;style&gt;\na:link &#123;\n    color: #b89047;\n&#125;\na:visited &#123;\n    color: #b89047;\n  \n&#125;\na:hover &#123;\n    color: #b89047;\n    \n&#125;\na:active &#123;\n    color: #b89047;\n   \n&#125;\n&lt;/style&gt;\n&lt;/head&gt;\n&lt;body&gt;\n\n\n&lt;a href=\&quot;http://www.myviewbydr.com\&quot; target=\&quot;_blank\&quot;&gt;MYVIEWBYDR&lt;/a&gt; \n\n&lt;/body&gt;\n&lt;/html&gt;\n\n\n&lt;/body&gt;\n&lt;/html&gt;\n&quot;,&quot;resolvedBy&quot;:&quot;manual&quot;,&quot;resolved&quot;:true&#125;" data-block-type="22" id="block-yui_3_17_2_2_1490800305117_6122"><div class="sqs-block-content"><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" >
+<body>
+
+<p align="center"
+<p><font face= "futura" size= "2">© Copyright 2017 Robert Carpentry | Brand Development & Website by 
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" >
+<head>
+<style>
+a:link {
+    color: #b89047;
+}
+a:visited {
+    color: #b89047;
+  
+}
+a:hover {
+    color: #b89047;
+    
+}
+a:active {
+    color: #b89047;
+   
+}
+</style>
+</head>
+<body>
+
+
+<a href="http://www.myviewbydr.com" target="_blank">MYVIEWBYDR</a> 
+
+</body>
+</html>
+
+
+</body>
+</html>
+</div></div></div></div></div></div></div>
+          </div>
+        </footer>
+
+        
+
+      </div>
+    </div>
+
+    <script defer="defer" src="https://static1.squarespace.com/static/ta/52e968b5e4b04d2aa2a3bba3/1129/scripts/site-bundle.js" type="text/javascript"></script>
+
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="instagram-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"/></symbol><symbol id="instagram-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"/></symbol></svg>
+
+  </body>
+</html>
